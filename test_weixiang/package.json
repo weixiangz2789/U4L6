@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "test_weixiang",
+  "version": "1.0.0",
+  "description": "this is a demo for learning how to set up a server for my application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wei Xiang Zheng",
+  "license": "MIT"
+}
